@@ -45,6 +45,7 @@ for strat in strategywiseStock:
 #     print(i," :: ",userBasedOnStrategy[i])
 # for i in stockCount:
 #     print(i," :: ",stockCount[i])
+
 def canOrder(order : dict):
     # Fetching details from dictionary
     strat = order["STRATEGY"]
