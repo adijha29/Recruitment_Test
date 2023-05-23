@@ -1839,3 +1839,1203 @@ root - INFO - 2023-05-23 13:52:59.734200 - Order created: {'STRATEGY': 'STRATEGY
 root - INFO - 2023-05-23 13:52:59.740144 - Order response: {'Order Status': 'Failed', 'Reason': 'ACC not found in STRATEGY_G'}
 root - INFO - 2023-05-23 13:53:00.745909 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
 root - INFO - 2023-05-23 13:53:00.750912 - Order response: {'Order Status': 'Failed', 'Reason': 'COFORGE not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:40:53.617343 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:40:53.682103 - Order response: {'Order Status': 'Failed', 'Reason': 'EICHER not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:40:54.686509 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:40:54.687521 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:40:55.696366 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:40:55.699382 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:40:56.705650 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:40:56.709657 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:40:57.712596 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:40:57.718121 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:40:58.722813 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:40:58.728825 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:40:59.731744 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:40:59.734756 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:41:00.740747 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:00.743255 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:41:01.751896 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:01.757447 - Order response: {'Order Status': 'Failed', 'Reason': 'BIRLASOFT not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:41:02.761818 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:02.769845 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:41:03.772064 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'EICHER', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:03.778134 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:41:04.780964 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:04.792797 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:41:05.796167 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:05.801684 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:41:06.807901 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:06.810411 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:41:07.819478 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:07.822586 - Order response: {'Order Status': 'Failed', 'Reason': 'HINDALCO not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:41:08.831249 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:08.842153 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:41:09.887086 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:09.891592 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:41:10.897418 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:10.901006 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:41:11.907459 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:11.912662 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:41:12.919321 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:12.970625 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:41:13.974661 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:13.978358 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:41:14.985529 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:14.989392 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:41:15.996008 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'GRASIM', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:16.002688 - Order response: {'Order Status': 'Failed', 'Reason': 'GRASIM not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:41:17.007675 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'GRASIM', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:17.019417 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:41:18.061928 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:18.073954 - Order response: {'Order Status': 'Accepted', 'message': 'Purchased'}
+root - INFO - 2023-05-23 22:41:19.077735 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:19.081069 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:41:20.085210 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:20.085210 - Order response: {'Order Status': 'Failed', 'Reason': 'ACC not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:41:21.093349 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:21.098856 - Order response: {'Order Status': 'Failed', 'Reason': 'COFORGE not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:41:22.103569 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:22.111601 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:41:23.114034 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:23.121548 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:41:24.123531 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'DMART', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:24.130542 - Order response: {'Order Status': 'Failed', 'Reason': 'DMART not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:41:25.132864 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:25.132864 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:41:26.141310 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:26.143816 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:41:27.150399 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:27.152904 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:41:28.158549 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:28.158549 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:41:29.165837 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:29.169852 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:41:30.175206 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:30.175206 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:41:30.325955 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:30.341582 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:41:31.182841 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:31.187892 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:41:31.348258 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:31.348258 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:41:32.193720 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'GRASIM', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:32.193720 - Order response: {'Order Status': 'Failed', 'Reason': 'GRASIM not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:41:32.357322 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'L&T', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:32.357322 - Order response: {'Order Status': 'Failed', 'Reason': 'L&T not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:41:33.202867 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:33.204373 - Order response: {'Order Status': 'Failed', 'Reason': 'HINDALCO not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:41:33.365154 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:33.373165 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:41:34.214348 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:34.217340 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:41:34.374152 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:34.380660 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:41:35.223599 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:35.227140 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:41:35.383226 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:35.387235 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:41:36.231048 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:36.237612 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:41:36.391033 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:36.399496 - Order response: {'Order Status': 'Accepted', 'message': 'Selled'}
+root - INFO - 2023-05-23 22:41:37.240621 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:37.246630 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:41:37.401256 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:37.407271 - Order response: {'Order Status': 'Failed', 'Reason': 'ACC not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:41:38.250362 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'EICHER', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:38.253919 - Order response: {'Order Status': 'Failed', 'Reason': 'EICHER not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:41:38.409946 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:38.414003 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:41:39.260181 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:39.264187 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:41:39.420437 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:39.420437 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:41:40.267612 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:40.269623 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:41:40.429835 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:40.431344 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:41:41.274438 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:41.281364 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:41:41.439862 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:41.446928 - Order response: {'Order Status': 'Failed', 'Reason': 'POWERGRID not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:41:42.282513 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'JSW', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:42.287721 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:41:42.448060 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:42.456487 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:41:43.288717 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:43.297359 - Order response: {'Order Status': 'Failed', 'Reason': 'L&T not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:41:43.458014 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'DMART', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:43.458014 - Order response: {'Order Status': 'Failed', 'Reason': 'DMART not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:41:44.299992 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:44.322616 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:41:44.466177 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:44.468192 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:41:45.326616 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:45.329120 - Order response: {'Order Status': 'Accepted', 'message': 'Purchased'}
+root - INFO - 2023-05-23 22:41:45.473469 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:45.473469 - Order response: {'Order Status': 'Failed', 'Reason': 'ACC not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:41:46.334226 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'GRASIM', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:46.341681 - Order response: {'Order Status': 'Failed', 'Reason': 'GRASIM not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:41:46.482623 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:46.493731 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:41:47.344088 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:47.352605 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:41:47.494647 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'GRASIM', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:47.496660 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:41:48.353539 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:48.353539 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:41:48.503917 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:48.503917 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:41:49.362736 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:49.367754 - Order response: {'Order Status': 'Failed', 'Reason': 'EICHER not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:41:49.513336 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:49.514857 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:41:50.372532 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:50.379544 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:41:50.522534 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'EICHER', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:50.525060 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:41:51.380450 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'GRASIM', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:51.383956 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:41:51.529180 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:51.537428 - Order response: {'Order Status': 'Accepted', 'message': 'Purchased'}
+root - INFO - 2023-05-23 22:41:52.389599 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:52.397604 - Order response: {'Order Status': 'Failed', 'message': 'No user available'}
+root - INFO - 2023-05-23 22:41:52.539659 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:52.541174 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:41:53.399719 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:53.401228 - Order response: {'Order Status': 'Failed', 'message': 'No user available'}
+root - INFO - 2023-05-23 22:41:53.550102 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'GRASIM', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:53.553613 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:41:54.410498 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:54.412563 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:41:54.560082 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:54.565093 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:41:55.418045 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:55.418045 - Order response: {'Order Status': 'Failed', 'Reason': 'COFORGE not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:41:55.571009 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:55.571009 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:41:56.427131 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:56.431226 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:41:56.579739 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:56.599593 - Order response: {'Order Status': 'Failed', 'Reason': 'POWERGRID not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:41:57.438961 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'MINDA', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:57.446974 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:41:57.606421 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'DMART', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:41:57.614936 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:41:58.448900 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:58.506248 - Order response: {'Order Status': 'Accepted', 'message': 'Selled'}
+root - INFO - 2023-05-23 22:41:58.616397 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:58.623905 - Order response: {'Order Status': 'Failed', 'Reason': 'JSW not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:41:59.510584 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:59.510584 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:41:59.624761 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:41:59.632948 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:42:00.519070 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:00.524622 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:42:00.635418 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:00.686556 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:42:01.529889 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:01.529889 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:42:01.692119 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:01.692119 - Order response: {'Order Status': 'Failed', 'Reason': 'POWERGRID not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:42:02.539294 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'NTPC', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:02.545873 - Order response: {'Order Status': 'Failed', 'Reason': 'NTPC not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:42:02.702364 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:02.709432 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:42:03.550072 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:03.557004 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:42:03.715188 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:03.715188 - Order response: {'Order Status': 'Failed', 'Reason': 'L&T not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:42:04.560637 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:04.564151 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:42:04.726086 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:04.779348 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:42:05.570544 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:05.572146 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:42:05.786015 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:05.786015 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:42:06.580914 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:06.586956 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:42:06.795411 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:06.803417 - Order response: {'Order Status': 'Failed', 'Reason': 'DMART not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:42:07.591152 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:07.596474 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:42:07.805669 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:07.807700 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:42:08.598063 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:08.603343 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:42:08.814208 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:08.848936 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:42:09.607933 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:09.617461 - Order response: {'Order Status': 'Failed', 'Reason': 'GRASIM not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:42:09.852013 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:09.857566 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:42:10.618292 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:10.623503 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:42:10.861577 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:10.871047 - Order response: {'Order Status': 'Accepted', 'message': 'Purchased'}
+root - INFO - 2023-05-23 22:42:11.628306 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:11.629864 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:42:11.872528 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'ACC', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:11.879539 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:42:12.638223 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:12.641739 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:42:12.882285 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:12.890299 - Order response: {'Order Status': 'Failed', 'Reason': 'BIRLASOFT not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:42:13.644338 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:13.646850 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:42:13.895569 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:13.903576 - Order response: {'Order Status': 'Accepted', 'message': 'Purchased'}
+root - INFO - 2023-05-23 22:42:14.654428 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:14.654428 - Order response: {'Order Status': 'Failed', 'Reason': 'GRASIM not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:42:14.905523 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:14.912547 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:42:15.664470 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:15.671178 - Order response: {'Order Status': 'Failed', 'Reason': 'JSW not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:42:15.915532 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:15.915532 - Order response: {'Order Status': 'Failed', 'Reason': 'COFORGE not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:42:16.672052 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:16.672052 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:42:16.925456 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:16.925456 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:42:17.681986 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:17.681986 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:42:17.934657 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'EICHER', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:17.942187 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:42:18.692004 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:18.695521 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:42:18.944740 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:18.947109 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:42:19.701641 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:19.703660 - Order response: {'Order Status': 'Failed', 'Reason': 'L&T not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:42:19.955343 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:19.955343 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:42:20.711687 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:20.718694 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:42:20.964987 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'JSW', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:20.974008 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:42:21.721359 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:21.729874 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:42:21.975513 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:21.975513 - Order response: {'Order Status': 'Failed', 'Reason': 'GRASIM not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:42:22.731045 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:22.737099 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:42:22.985013 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:22.985013 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:42:23.741105 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'JSW', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:23.741105 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:42:23.994756 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:24.000309 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:42:24.750847 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:24.754905 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:42:25.004558 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:25.004558 - Order response: {'Order Status': 'Failed', 'Reason': 'POWERGRID not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:42:25.760621 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:25.766182 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:42:26.014048 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:26.016567 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:42:26.770886 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:26.775959 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:42:27.023644 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:27.029964 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:42:27.780077 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:27.785585 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:42:28.031254 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:28.033334 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:42:28.790239 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'GRASIM', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:28.792747 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:42:29.041762 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:29.048777 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:42:29.800735 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:29.804251 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:42:30.051284 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:30.051284 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:42:30.810668 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:30.816182 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:42:31.061249 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:31.061249 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:42:31.821966 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:31.824977 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:42:32.070943 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:32.070943 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:42:32.832066 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:32.836634 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:42:33.081322 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:33.081322 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:42:33.841513 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:33.849535 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:42:34.090872 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:34.098387 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:42:34.851936 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:34.859949 - Order response: {'Order Status': 'Failed', 'Reason': 'BIRLASOFT not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:42:35.100455 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:35.107462 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:42:35.860969 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:35.860969 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:42:36.110000 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:36.153361 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:42:36.870659 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:36.878252 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:42:37.156260 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:37.162812 - Order response: {'Order Status': 'Failed', 'Reason': 'ACC not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:42:37.883484 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'JSW', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:37.891489 - Order response: {'Order Status': 'Failed', 'Reason': 'JSW not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:42:38.168023 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:38.172032 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:42:38.892572 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'L&T', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:38.897098 - Order response: {'Order Status': 'Failed', 'Reason': 'L&T not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:42:39.176594 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:39.180616 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:42:39.902198 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'DMART', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:39.905748 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:42:40.185922 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:40.238277 - Order response: {'Order Status': 'Failed', 'Reason': 'DMART not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:42:40.912022 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:40.919652 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:42:41.244839 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:41.252845 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:42:41.921517 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:41.924067 - Order response: {'Order Status': 'Failed', 'Reason': 'DMART not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:42:42.254466 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:42.263376 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:42:42.930737 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:42.937753 - Order response: {'Order Status': 'Failed', 'Reason': 'BIRLASOFT not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:42:43.264439 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:43.271953 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:42:43.943009 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:43.946613 - Order response: {'Order Status': 'Failed', 'Reason': 'HINDALCO not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:42:44.273701 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:44.329099 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:42:44.954948 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:44.956463 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:42:45.332117 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:45.340124 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:42:45.964650 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'EICHER', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:45.967666 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:42:46.342388 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:46.346093 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:42:46.975458 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:46.976976 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:42:47.354965 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'EICHER', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:47.365480 - Order response: {'Order Status': 'Accepted', 'message': 'Purchased'}
+root - INFO - 2023-05-23 22:42:47.985155 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:47.991206 - Order response: {'Order Status': 'Accepted', 'message': 'Selled'}
+root - INFO - 2023-05-23 22:42:48.366534 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:48.375645 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:42:48.996166 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:48.999723 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:42:49.376317 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:49.380199 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:42:50.006801 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:50.013360 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:42:50.388054 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:50.393371 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:42:51.016240 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:51.018250 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:42:51.400127 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'NTPC', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:51.403842 - Order response: {'Order Status': 'Failed', 'Reason': 'NTPC not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:42:52.025410 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:52.032442 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:42:52.410816 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'JSW', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:52.417827 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:42:53.035274 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'EICHER', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:53.035274 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:42:53.419750 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:53.425951 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:42:54.044468 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:54.046978 - Order response: {'Order Status': 'Failed', 'Reason': 'HINDALCO not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:42:54.431030 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'DMART', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:54.436031 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:42:55.053301 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:55.062442 - Order response: {'Order Status': 'Failed', 'Reason': 'HINDALCO not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:42:55.442753 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:55.446512 - Order response: {'Order Status': 'Failed', 'Reason': 'ACC not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:42:56.063141 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:56.065160 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:42:56.454878 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:56.459894 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:42:57.079569 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:57.087807 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:42:57.465998 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'EICHER', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:57.472015 - Order response: {'Order Status': 'Failed', 'Reason': 'EICHER not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:42:58.090441 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'L&T', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:58.098909 - Order response: {'Order Status': 'Failed', 'Reason': 'L&T not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:42:58.477788 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:58.484922 - Order response: {'Order Status': 'Failed', 'Reason': 'COFORGE not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:42:59.102314 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'GRASIM', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:42:59.102314 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:42:59.489668 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:42:59.492181 - Order response: {'Order Status': 'Accepted', 'message': 'Selled'}
+root - INFO - 2023-05-23 22:43:00.111227 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:00.114164 - Order response: {'Order Status': 'Failed', 'Reason': 'MINDA not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:43:00.500450 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:00.505474 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:43:01.121002 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'NTPC', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:01.123014 - Order response: {'Order Status': 'Failed', 'Reason': 'NTPC not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:43:01.510732 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:01.512743 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:43:02.130837 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:02.135844 - Order response: {'Order Status': 'Failed', 'message': 'No user available'}
+root - INFO - 2023-05-23 22:43:02.520927 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'NTPC', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:02.529967 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:43:03.140884 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:03.140884 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:43:03.532252 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:03.538267 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:43:04.150538 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:04.160593 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:43:04.542485 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:04.550491 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:43:05.162071 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:05.165588 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:43:05.552209 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:05.556730 - Order response: {'Order Status': 'Failed', 'Reason': 'POWERGRID not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:43:06.190422 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:06.198419 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:43:06.560263 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:06.563922 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:43:07.199956 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:07.203006 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:43:07.571924 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:07.572965 - Order response: {'Order Status': 'Accepted', 'message': 'Purchased'}
+root - INFO - 2023-05-23 22:43:08.210777 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:08.210777 - Order response: {'Order Status': 'Failed', 'Reason': 'DMART not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:43:08.580115 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:08.583699 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:43:09.219516 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:09.224650 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:43:09.591637 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:09.602650 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:43:10.226078 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:10.235384 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:43:10.605089 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:10.614725 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:43:11.239899 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:11.239899 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:43:11.617105 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:11.620874 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:43:12.250014 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:12.252057 - Order response: {'Order Status': 'Failed', 'Reason': 'DMART not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:43:12.628481 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:12.637926 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:43:13.259851 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:13.268860 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:43:13.639115 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:13.642852 - Order response: {'Order Status': 'Failed', 'Reason': 'HINDALCO not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:43:14.272581 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:14.320041 - Order response: {'Order Status': 'Failed', 'Reason': 'COFORGE not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:43:14.650144 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:14.658966 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:43:15.322551 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'EICHER', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:15.333323 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:43:15.665083 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:15.671788 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:43:16.334641 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:16.338148 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:43:16.675409 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'MINDA', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:16.677264 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:43:17.348298 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:17.351803 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:43:17.683933 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:17.691131 - Order response: {'Order Status': 'Failed', 'Reason': 'DMART not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:43:18.353999 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:18.362555 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:43:18.695510 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'L&T', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:18.703793 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:43:19.363915 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:19.370678 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:43:19.707380 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:19.717902 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:43:20.376071 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:20.384130 - Order response: {'Order Status': 'Failed', 'Reason': 'L&T not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:43:20.719434 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'L&T', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:20.725597 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:43:21.389044 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:21.389044 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:43:21.732594 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:21.738693 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:43:22.399251 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:22.401802 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:43:22.746277 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:22.749990 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:43:23.405968 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:23.414002 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:43:23.758292 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'DMART', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:23.763639 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:43:24.415395 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:24.419454 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:43:24.770204 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:24.778243 - Order response: {'Order Status': 'Failed', 'Reason': 'POWERGRID not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:43:25.425195 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:25.425195 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:43:25.779443 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:25.787445 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:43:26.432199 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:26.438208 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:43:26.788451 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:26.794472 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:43:27.440447 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:27.442520 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:43:27.795588 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:27.799679 - Order response: {'Order Status': 'Failed', 'Reason': 'DMART not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:43:28.447694 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:28.447694 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:43:28.807453 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:28.817030 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:43:29.457153 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:29.467700 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:43:29.818609 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'NTPC', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:29.825115 - Order response: {'Order Status': 'Failed', 'Reason': 'NTPC not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:43:30.469589 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:30.477594 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:43:30.826565 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:30.834626 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:43:31.478930 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:31.485324 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:43:31.838840 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:31.846847 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:43:32.486534 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:32.486534 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:43:32.850706 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:32.854236 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:43:33.496471 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:33.498574 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:43:33.861809 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:33.863825 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:43:34.506140 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:34.512190 - Order response: {'Order Status': 'Failed', 'Reason': 'HINDALCO not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:43:34.871777 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:34.880090 - Order response: {'Order Status': 'Failed', 'Reason': 'L&T not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:43:35.515868 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:35.515868 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:43:35.882288 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:35.885311 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:43:36.522771 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:36.526305 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:43:36.891106 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'GRASIM', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:36.894740 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:43:37.531972 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:37.539977 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:43:37.900830 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:37.908855 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:43:38.540913 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'NTPC', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:38.541929 - Order response: {'Order Status': 'Failed', 'Reason': 'NTPC not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:43:38.910616 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:38.918172 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:43:39.549083 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:39.555322 - Order response: {'Order Status': 'Failed', 'Reason': 'GRASIM not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:43:39.919927 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:39.925938 - Order response: {'Order Status': 'Failed', 'Reason': 'HINDALCO not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:43:40.558520 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:40.566524 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:43:40.934153 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:40.942172 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:43:41.568272 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:41.595891 - Order response: {'Order Status': 'Failed', 'Reason': 'HINDALCO not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:43:41.946255 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:41.949763 - Order response: {'Order Status': 'Accepted', 'message': 'Selled'}
+root - INFO - 2023-05-23 22:43:42.597097 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:42.598607 - Order response: {'Order Status': 'Failed', 'Reason': 'COFORGE not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:43:42.956115 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:42.959147 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:43:43.606934 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:43.609450 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:43:43.966996 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:43.970577 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:43:44.616528 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:44.616528 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:43:44.979283 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:44.985427 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:43:45.626090 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:45.673489 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:43:45.989630 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:45.997637 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:43:46.677368 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:46.685431 - Order response: {'Order Status': 'Accepted', 'message': 'Selled'}
+root - INFO - 2023-05-23 22:43:47.000195 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:47.051164 - Order response: {'Order Status': 'Failed', 'Reason': 'NTPC not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:43:47.688706 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:47.688706 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:43:48.055504 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:48.066044 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:43:48.697732 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:48.705742 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:43:49.067598 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:49.077141 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:43:49.706979 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:49.708871 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:43:50.077826 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:50.083840 - Order response: {'Order Status': 'Failed', 'Reason': 'BIRLASOFT not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:43:50.716506 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:50.716506 - Order response: {'Order Status': 'Failed', 'Reason': 'HINDALCO not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:43:51.085963 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:51.126921 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:43:51.725762 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'L&T', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:51.727269 - Order response: {'Order Status': 'Failed', 'Reason': 'L&T not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:43:52.130361 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'MINDA', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:52.136910 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:43:52.734993 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'L&T', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:52.734993 - Order response: {'Order Status': 'Failed', 'Reason': 'L&T not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:43:53.139551 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:53.147559 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:43:53.745238 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:53.749752 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:43:54.149610 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'JSW', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:54.158178 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:43:54.754403 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:54.754403 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:43:55.163249 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:55.219016 - Order response: {'Order Status': 'Accepted', 'message': 'Purchased'}
+root - INFO - 2023-05-23 22:43:55.764227 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:55.770804 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:43:56.222636 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:56.231162 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:43:56.773269 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:56.776389 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:43:57.233113 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:57.237358 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:43:57.781045 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:57.785120 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:43:58.244414 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'EICHER', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:43:58.246973 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:43:58.792635 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:58.808658 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:43:59.256063 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:59.264973 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:43:59.813466 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:43:59.813466 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:44:00.266453 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:00.275260 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:44:00.822142 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'JSW', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:00.829902 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:44:01.278931 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:01.285437 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:44:01.831126 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:01.833134 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:44:02.286872 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:02.294891 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:44:02.840632 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:02.844637 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:44:03.297433 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:03.301894 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:44:03.847427 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:03.850978 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:44:04.304880 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:04.311388 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:44:04.858804 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:04.860812 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:44:05.317189 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:05.324233 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:44:05.868197 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:05.875209 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:44:06.325784 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'L&T', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:06.325784 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:44:06.876038 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:06.881491 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:44:07.333852 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:07.341414 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:44:07.884894 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:07.892800 - Order response: {'Order Status': 'Accepted', 'message': 'Selled'}
+root - INFO - 2023-05-23 22:44:08.345563 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:08.349577 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:44:08.895418 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ACC', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:08.895418 - Order response: {'Order Status': 'Accepted', 'message': 'Purchased'}
+root - INFO - 2023-05-23 22:44:09.355709 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:09.361703 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:44:09.906795 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:09.906795 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:44:10.366151 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:10.369708 - Order response: {'Order Status': 'Failed', 'Reason': 'BIRLASOFT not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:44:10.916165 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:10.924874 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:44:11.377814 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:11.381749 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:44:11.925680 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:11.925680 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:44:12.390709 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:12.394976 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:44:12.935421 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:12.961462 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:44:13.403070 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:13.409887 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:44:13.963586 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:13.971135 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:44:14.413634 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:14.418141 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:44:14.972898 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:14.972898 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:44:15.425382 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:15.433466 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:44:15.983324 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:15.991368 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:44:16.438178 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:16.440204 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:44:16.992178 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:17.000184 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:44:17.447277 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:17.450786 - Order response: {'Order Status': 'Failed', 'Reason': 'POWERGRID not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:44:18.001686 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'JSW', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:18.001686 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:44:18.457634 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:18.465649 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:44:19.011403 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:19.017631 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:44:19.468338 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'ACC', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:19.471844 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:44:20.022692 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:20.027791 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:44:20.475899 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:20.488658 - Order response: {'Order Status': 'Failed', 'Reason': 'POWERGRID not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:44:21.031694 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:21.041415 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:44:21.489837 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:21.495403 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:44:22.042501 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:22.042501 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:44:22.498402 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:22.508153 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:44:23.053685 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:23.059739 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:44:23.509029 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:23.515843 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:44:24.063788 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'DMART', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:24.069799 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:44:24.518174 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:24.526242 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:44:25.072580 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:25.074584 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:44:25.528803 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:25.539355 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:44:26.080550 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'EICHER', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:26.090992 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:44:26.540768 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:26.546850 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:44:27.091867 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:27.091867 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:44:27.555102 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:27.562613 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:44:28.103349 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:28.103349 - Order response: {'Order Status': 'Failed', 'Reason': 'NTPC not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:44:28.568530 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:28.573038 - Order response: {'Order Status': 'Failed', 'Reason': 'COFORGE not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:44:29.114750 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'L&T', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:29.126257 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:44:29.582259 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:29.582259 - Order response: {'Order Status': 'Failed', 'Reason': 'L&T not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:44:30.127667 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'EICHER', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:30.131689 - Order response: {'Order Status': 'Failed', 'Reason': 'EICHER not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:44:30.592088 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:30.605128 - Order response: {'Order Status': 'Failed', 'message': 'No user available'}
+root - INFO - 2023-05-23 22:44:31.141657 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:31.146691 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:44:31.606210 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'ACC', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:31.606210 - Order response: {'Order Status': 'Failed', 'Reason': 'ACC not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:44:32.154125 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:32.161688 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:44:32.619719 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:32.621737 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:44:33.164495 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:33.173015 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:44:33.633320 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:33.633320 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:44:34.176560 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:34.183594 - Order response: {'Order Status': 'Failed', 'Reason': 'EICHER not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:44:34.645483 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:34.656064 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:44:35.188477 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:35.194553 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:44:35.656876 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:35.671692 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:44:36.200308 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:36.203319 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:44:36.672846 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'ACC', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:36.684355 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:44:37.210685 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:37.210685 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:44:37.687138 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:37.687138 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:44:38.223214 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:38.223214 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:44:38.700232 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:38.711753 - Order response: {'Order Status': 'Failed', 'Reason': 'EICHER not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:44:39.233475 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'L&T', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:39.233475 - Order response: {'Order Status': 'Failed', 'Reason': 'L&T not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:44:39.714539 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:39.721054 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:44:40.244324 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:40.244324 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:44:40.728092 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:40.731651 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:44:41.256410 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:41.256410 - Order response: {'Order Status': 'Failed', 'Reason': 'GRASIM not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:44:41.741494 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:41.748022 - Order response: {'Order Status': 'Failed', 'Reason': 'COFORGE not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:44:42.268830 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'L&T', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:42.279362 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:44:42.754606 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:42.754606 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:44:43.281345 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:43.290892 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:44:43.767905 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:43.767905 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:44:44.293859 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:44.302916 - Order response: {'Order Status': 'Failed', 'Reason': 'JSW not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:44:44.782520 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:44.791678 - Order response: {'Order Status': 'Accepted', 'message': 'Selled'}
+root - INFO - 2023-05-23 22:44:45.305917 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:45.305917 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:44:45.797712 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:45.810516 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:44:46.317161 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:46.317161 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:44:46.813081 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:46.821619 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:44:47.328135 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:47.328135 - Order response: {'Order Status': 'Failed', 'Reason': 'ACC not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:44:47.828001 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:47.833511 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:44:48.340475 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:48.340475 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:44:48.842371 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'JSW', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:48.843916 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:44:49.350623 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:49.350623 - Order response: {'Order Status': 'Failed', 'Reason': 'BIRLASOFT not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:44:49.855059 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:49.859076 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:44:50.362396 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:50.363916 - Order response: {'Order Status': 'Failed', 'Reason': 'L&T not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:44:50.866957 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:50.868966 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:44:51.374316 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:51.376362 - Order response: {'Order Status': 'Failed', 'Reason': 'GRASIM not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:44:51.881071 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'DMART', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:51.881071 - Order response: {'Order Status': 'Failed', 'Reason': 'DMART not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:44:52.385330 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:52.385330 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:44:52.895027 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:52.905038 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:44:53.398072 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'L&T', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:53.398072 - Order response: {'Order Status': 'Failed', 'Reason': 'L&T not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:44:53.906333 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:53.916870 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:44:54.409257 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:54.418791 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:44:54.920097 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:54.926110 - Order response: {'Order Status': 'Accepted', 'message': 'Purchased'}
+root - INFO - 2023-05-23 22:44:55.420185 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:55.430775 - Order response: {'Order Status': 'Failed', 'Reason': 'DMART not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:44:55.936332 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:55.936332 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:44:56.432149 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:56.440248 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:44:56.950084 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:56.950084 - Order response: {'Order Status': 'Failed', 'Reason': 'ACC not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:44:57.443631 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'NTPC', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:57.453140 - Order response: {'Order Status': 'Failed', 'Reason': 'NTPC not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:44:57.964573 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:58.005076 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:44:58.455997 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:58.461059 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:44:59.007188 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:44:59.013766 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:44:59.467729 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:44:59.471309 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:45:00.019886 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:00.025951 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:45:00.479441 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:00.487451 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:45:01.034386 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:01.040472 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:45:01.491153 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:01.498737 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:45:02.048891 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:02.050403 - Order response: {'Order Status': 'Failed', 'Reason': 'POWERGRID not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:45:02.503455 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:02.507474 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:45:03.061050 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:03.061050 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:45:03.514794 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:03.523172 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:45:04.074258 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:04.084272 - Order response: {'Order Status': 'Failed', 'Reason': 'HINDALCO not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:45:04.526383 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:04.526383 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:45:05.088839 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:05.101468 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:45:05.537914 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:05.548475 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:45:06.103006 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:06.103006 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:45:06.549467 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:06.555531 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:45:07.116353 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:07.127439 - Order response: {'Order Status': 'Failed', 'Reason': 'GRASIM not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:45:07.564560 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:07.564560 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:45:08.128477 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'ACC', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:08.129987 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:45:08.577539 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:08.587114 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:45:09.141972 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'EICHER', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:09.141972 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:45:09.588767 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:09.598419 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:45:10.154923 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:10.163462 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:45:10.599341 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:10.608852 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:45:11.165425 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:11.174715 - Order response: {'Order Status': 'Failed', 'Reason': 'NTPC not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:45:11.611003 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:11.633269 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:45:12.179049 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:12.185629 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:45:12.643173 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:12.643173 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:45:13.190581 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:13.190581 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:45:13.654353 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:13.659411 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:45:14.202125 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:14.212136 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:45:14.665440 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:14.668513 - Order response: {'Order Status': 'Failed', 'Reason': 'DMART not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:45:15.215562 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:15.224115 - Order response: {'Order Status': 'Failed', 'Reason': 'NTPC not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:45:15.676688 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:15.720703 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:45:16.227988 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:16.227988 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:45:16.730592 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:16.730592 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:45:17.240938 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:17.250684 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:45:17.740586 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'NTPC', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:17.740586 - Order response: {'Order Status': 'Failed', 'Reason': 'NTPC not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:45:18.251545 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:18.255101 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:45:18.752067 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:18.752067 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:45:19.263506 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:19.268514 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:45:19.761439 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'JSW', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:19.803500 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:45:20.275993 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:20.275993 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:45:20.814560 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:20.814560 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:45:21.288714 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:21.295781 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:45:21.825187 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:21.825187 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:45:22.299364 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:22.310606 - Order response: {'Order Status': 'Failed', 'Reason': 'POWERGRID not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:45:22.834795 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'ACC', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:22.834795 - Order response: {'Order Status': 'Failed', 'Reason': 'ACC not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:45:23.312116 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:23.319628 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:45:23.844437 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:23.892191 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:45:24.325488 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:24.331017 - Order response: {'Order Status': 'Failed', 'Reason': 'POWERGRID not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:45:24.901613 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:24.905190 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:45:25.337641 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:25.337641 - Order response: {'Order Status': 'Accepted', 'message': 'Selled'}
+root - INFO - 2023-05-23 22:45:25.912768 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'MINDA', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:25.920786 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:45:26.350956 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:26.350956 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:45:26.923704 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:26.929282 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:45:27.362980 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:27.374388 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:45:27.934420 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:27.943950 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:45:28.376012 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'JSW', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:28.385534 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:45:28.991870 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:29.000396 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:45:29.388228 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:29.394741 - Order response: {'Order Status': 'Failed', 'Reason': 'POWERGRID not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:45:30.003076 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'JSW', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:30.010635 - Order response: {'Order Status': 'Failed', 'Reason': 'JSW not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:45:30.400121 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:30.407207 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:45:31.014272 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'DMART', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:31.022826 - Order response: {'Order Status': 'Failed', 'Reason': 'DMART not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:45:31.411274 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'GRASIM', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:31.423298 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:45:32.025111 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:32.025111 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:45:32.424660 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:32.434407 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:45:33.033444 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'DMART', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:33.035847 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:45:33.437967 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:33.469906 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:45:34.043669 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:34.055234 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:45:34.481858 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:34.490896 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:45:35.055837 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'MINDA', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:35.055837 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:45:35.492861 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:35.492861 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:45:36.067110 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:36.075438 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:45:36.504275 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'JSW', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:36.512435 - Order response: {'Order Status': 'Failed', 'Reason': 'JSW not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:45:37.076737 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:37.080248 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:45:37.514261 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'MINDA', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:37.521794 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:45:38.087778 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'L&T', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:38.089298 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:45:38.525543 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:38.533099 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:45:39.098246 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:39.105753 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:45:39.536475 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:39.546495 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:45:40.108036 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:40.113599 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:45:40.549307 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:40.556318 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:45:41.120528 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:41.123537 - Order response: {'Order Status': 'Failed', 'Reason': 'NTPC not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:45:41.562661 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:41.564173 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:45:42.131004 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:42.138015 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:45:42.576364 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:42.582930 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:45:43.139679 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:43.146377 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:45:43.587161 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'NTPC', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:43.601647 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:45:44.150466 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'GRASIM', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:44.157057 - Order response: {'Order Status': 'Failed', 'Reason': 'GRASIM not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:45:44.602350 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:44.602350 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:45:45.161514 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:45.161514 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:45:45.614763 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'MINDA', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:45.614763 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:45:46.172633 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:46.182190 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:45:46.626311 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:46.636819 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:45:47.183106 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:47.192536 - Order response: {'Order Status': 'Failed', 'Reason': 'COFORGE not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:45:47.638722 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:47.648732 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:45:48.193578 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:48.201085 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:45:48.653082 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:48.659697 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:45:49.205472 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:49.212029 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:45:49.665256 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'NTPC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:49.670766 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:45:50.215997 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:50.215997 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:45:50.677840 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'MINDA', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:50.685352 - Order response: {'Order Status': 'Failed', 'Reason': 'MINDA not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:45:51.227640 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:51.227640 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:45:51.689864 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:51.697375 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:45:52.238864 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:52.248388 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:45:52.702516 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:52.714549 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:45:53.249835 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:53.249835 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:45:53.715453 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:53.715453 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:45:54.260625 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ACC', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:54.270644 - Order response: {'Order Status': 'Accepted', 'message': 'Purchased'}
+root - INFO - 2023-05-23 22:45:54.726601 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:54.729189 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:45:55.272185 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:55.281789 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:45:55.739090 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:55.745812 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:45:56.283269 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:56.291858 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:45:56.751966 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:45:56.753086 - Order response: {'Order Status': 'Accepted', 'message': 'Purchased'}
+root - INFO - 2023-05-23 22:45:57.766376 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:57.767426 - Order response: {'Order Status': 'Failed', 'Reason': 'DMART not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:45:58.778982 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:58.778982 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:45:59.791143 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:45:59.802202 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:46:00.804764 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:46:00.804764 - Order response: {'Order Status': 'Failed', 'message': 'No user available'}
+root - INFO - 2023-05-23 22:46:01.819132 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'EICHER', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:01.829147 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:46:02.832172 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:02.832172 - Order response: {'Order Status': 'Accepted', 'message': 'Selled'}
+root - INFO - 2023-05-23 22:46:03.844171 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:03.853685 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:46:04.857233 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:04.865272 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:46:05.869074 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:05.869074 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:46:06.881790 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:46:06.887304 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:46:07.896730 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'NTPC', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:46:07.896730 - Order response: {'Order Status': 'Failed', 'Reason': 'NTPC not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:46:08.908712 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'EICHER', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:46:08.919631 - Order response: {'Order Status': 'Accepted', 'message': 'Purchased'}
+root - INFO - 2023-05-23 22:46:09.924085 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'COFORGE', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:46:09.924085 - Order response: {'Order Status': 'Failed', 'Reason': 'COFORGE not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:46:10.935049 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'GRASIM', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:46:10.935049 - Order response: {'Order Status': 'Failed', 'Reason': 'GRASIM not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:46:11.946796 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:11.956308 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:46:12.958281 - Order created: {'STRATEGY': 'STRATEGY_F', 'INSTRUMENT': 'GRASIM', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:13.002552 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_F'}
+root - INFO - 2023-05-23 22:46:14.012416 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:14.023926 - Order response: {'Order Status': 'Failed', 'Reason': 'POWERGRID not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:46:15.026585 - Order created: {'STRATEGY': 'STRATEGY_B', 'INSTRUMENT': 'HINDALCO', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:15.031618 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_B'}
+root - INFO - 2023-05-23 22:46:16.038155 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'EICHER', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:46:16.043717 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}
+root - INFO - 2023-05-23 22:46:17.051691 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'DMART', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:46:17.088788 - Order response: {'Order Status': 'Failed', 'Reason': 'DMART not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:46:18.098671 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'COFORGE', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:18.098671 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:46:19.111433 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:19.111433 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:46:20.122499 - Order created: {'STRATEGY': 'STRATEGY_H', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:20.131557 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_H'}
+root - INFO - 2023-05-23 22:46:21.135320 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:21.192129 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:46:22.194611 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'INFY', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:46:22.199626 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:46:23.207093 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'JSW', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:23.210102 - Order response: {'Order Status': 'Failed', 'Reason': 'JSW not found in STRATEGY_I'}
+root - INFO - 2023-05-23 22:46:24.219656 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:24.224667 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:46:25.231757 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'BUY'}
+root - INFO - 2023-05-23 22:46:25.235268 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:46:26.244847 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'MINDA', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:26.244847 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:46:27.256496 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'INFY', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:27.258564 - Order response: {'Order Status': 'Failed', 'Reason': 'INFY not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:46:28.270353 - Order created: {'STRATEGY': 'STRATEGY_A', 'INSTRUMENT': 'ACC', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:28.279006 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_A'}
+root - INFO - 2023-05-23 22:46:29.283316 - Order created: {'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'ADANIENT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:29.286334 - Order response: {'Order Status': 'Failed', 'Reason': 'ADANIENT not found in STRATEGY_G'}
+root - INFO - 2023-05-23 22:46:30.296463 - Order created: {'STRATEGY': 'STRATEGY_D', 'INSTRUMENT': 'BIRLASOFT', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:30.296463 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_D'}
+root - INFO - 2023-05-23 22:46:31.309158 - Order created: {'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:31.309158 - Order response: {'Order Status': 'Failed', 'message': 'No buy, direct sell'}
+root - INFO - 2023-05-23 22:46:32.321089 - Order created: {'STRATEGY': 'STRATEGY_E', 'INSTRUMENT': 'POWERGRID', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:32.323619 - Order response: {'Order Status': 'Failed', 'Reason': 'POWERGRID not found in STRATEGY_E'}
+root - INFO - 2023-05-23 22:46:33.333074 - Order created: {'STRATEGY': 'STRATEGY_C', 'INSTRUMENT': 'DMART', 'POSITION': 'SELL'}
+root - INFO - 2023-05-23 22:46:33.334595 - Order response: {'Order Status': 'Failed', 'Reason': 'No user in STRATEGY_C'}

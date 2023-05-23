@@ -18,6 +18,15 @@ def logInfo(message):
     print('Info message: '+str(message))
     logging.info(str(datetime.now())+" - "+str(message))
 
+def recordLogInfo(message):
+    logging.basicConfig(filename='../Logs/recordLog_'+date+'.log', filemode='a', format='%(name)s - %(levelname)s - %(message)s',level=logging.INFO)
+    '''
+    A generic message, does not indicate any severity
+    '''
+
+    print('Info message: '+str(message))
+    logging.info(str(datetime.now())+" - "+str(message))
+
 def logWarning(message):
     logging.basicConfig(filename='../Logs/log_'+date+'.log', filemode='a', format='%(name)s - %(levelname)s - %(message)s',level=logging.INFO)
     '''

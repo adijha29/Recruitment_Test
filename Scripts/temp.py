@@ -14,7 +14,8 @@ strategywiseStock = {}
 userWiseStockPurchased = {}
 
 stockCount = {}
-
+# To maintain the record of users along with the strategy and stock
+userStockRecord = {}
 for strat in raw_details["STRATEGIES"]:
     userBasedOnStrategy[strat] = []
     stockCount[strat] = {}
@@ -24,10 +25,17 @@ with open("../Jsons/user_profile.json") as f:
     user_profiles = json.load(f)
 
 for user in user_profiles:
+    userWiseStockPurchased[user] = {}        
     for strat in user_profiles[user]:
+        userWiseStockPurchased[user][strat] = {}        
         userBasedOnStrategy[strat].append(user)
         if strat not in strategywiseStock.keys():
             strategywiseStock[strat] = user_profiles[user][strat]
+        for stocks in user_profiles[user][strat]:
+            userWiseStockPurchased[user][strat][stocks] = False    
+
+
+
 for strat in strategywiseStock:
     for stock in strategywiseStock[strat]:
         stockCount[strat][stock] = 0
@@ -44,6 +52,11 @@ for i in userBasedOnStrategy:
 for i in stockCount:
     print(i," :: ",stockCount[i])
 
+for user in userWiseStockPurchased:
+    for strat in userWiseStockPurchased[user]:
+        for stock in userWiseStockPurchased[user][strat]:
+            print(user,strat,stock,userWiseStockPurchased[user][strat][stock],sep=" :: ")
+print("---------before test-----------------")
 def canOrder(order : dict):
     # Fetching details from dictionary
     strat = order["STRATEGY"]
@@ -70,6 +83,8 @@ def canOrder(order : dict):
             }
         else:
             stockCount[strat][stock] = stockCount[strat][stock] + 1
+            index = stockCount[strat][stock] - 1
+            userWiseStockPurchased[userBasedOnStrategy[strat][index]][strat][stock] = True
             return {
                 "Order Status" : "Accepted",
                 "message":"Purchased"
@@ -82,6 +97,8 @@ def canOrder(order : dict):
             }
         else:
             stockCount[strat][stock] = stockCount[strat][stock] - 1
+            index = stockCount[strat][stock]
+            userWiseStockPurchased[userBasedOnStrategy[strat][index]][strat][stock] = False
             return {
                 "Order Status" : "Accepted",
                 "message":"Selled"
@@ -92,6 +109,12 @@ def canOrder(order : dict):
         "Reason" : "Invalid Order"
     }
 
-rees = canOrder({'STRATEGY': 'STRATEGY_G', 'INSTRUMENT': 'NTPC', 'POSITION': 'BUY'})
+rees = canOrder({'STRATEGY': 'STRATEGY_I', 'INSTRUMENT': 'ACC', 'POSITION': 'BUY'})
+print("---------after test-----------------")
+for user in userWiseStockPurchased:
+    for strat in userWiseStockPurchased[user]:
+        for stock in userWiseStockPurchased[user][strat]:
+            print(user,strat,stock,userWiseStockPurchased[user][strat][stock],sep=" :: ")
+
 res = {"RESPONSE":rees}
 print("Order response: {}".format(res['RESPONSE']))
