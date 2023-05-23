@@ -1,0 +1,31 @@
+{
+    "Kamryn Li": {
+        "STRATEGY_G": [
+            "JSW"
+        ],
+        "STRATEGY_E": [
+            "MINDA",
+            "JSW",
+            "COFORGE",
+            "BIRLASOFT"
+        ]
+    },
+    "Marlee Maxwell": {
+        "STRATEGY_I": [
+            "ACC",
+            "EICHER",
+            "MINDA",
+            "COFORGE",
+            "HINDALCO",
+            "POWERGRID"
+        ],
+        "STRATEGY_G": [
+            "JSW"
+        ]
+    },
+    "Hattie Dyer": {
+        "STRATEGY_G": [
+            "JSW"
+        ]
+    }
+}

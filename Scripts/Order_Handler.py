@@ -102,12 +102,9 @@ async def root():
 
 @app.post("/create_order")
 async def process_payload(payload: dict):
-    strategy = payload['STRATAGIES']
+    strategy = payload['STRATEGY']
     stock = payload['INSTRUMENT']
     position = payload['POSITION']
-
     res =  canOrder(payload)
-    
     order_history.append([res["Order Status"],strategy,stock,position])
-
     return res

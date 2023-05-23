@@ -24,5 +24,5 @@ for i in range(300):
     logInfo("Order created: {}".format(order_payload))
     r = requests.post("http://127.0.0.1:8000/create_order",json=order_payload)
     logInfo("Order response: {}".format(r.json()))
-    sleep(10)
+    sleep(1)
 
